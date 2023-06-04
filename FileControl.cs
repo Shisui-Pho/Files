@@ -1,8 +1,5 @@
 ﻿/*Developer name     : Phiwokwakhe Khathwane 
  * Available at      : phiwokwakhe299@gmail.com
- * Git-Hub Id        : @Shisui-Pho
- * Stack OverFlow Id : @Shisui-Pho
- * Zapsplat          : @The_Collector
  * Project Type      : Class Library
  * Project name      : File control Library
 */
