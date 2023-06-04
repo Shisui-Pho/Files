@@ -6,6 +6,7 @@ USING THE LIBRARY
 ---------------------
 Add a reference file 'FileControl.dll' to your project.  
 Add a using namespace : Control.Files
+using a netstandard2.0
 
 FILES CLASS
 ----
